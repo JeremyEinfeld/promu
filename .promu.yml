@@ -1,5 +1,5 @@
 repository:
-    path: github.com/prometheus/promu
+    path: github.com/JeremyEinfeld/promu
 build:
     flags: -a -tags 'netgo static_build'
     ldflags: |
