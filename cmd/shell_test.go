@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/prometheus/promu/util/sh"
+	"github.com/JeremyEinfeld/promu/util/sh"
 )
 
 func TestSplitParameters(t *testing.T) {

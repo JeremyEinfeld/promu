@@ -24,7 +24,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/prometheus/promu/util/sh"
+	"github.com/JeremyEinfeld/promu/util/sh"
 )
 
 var (
